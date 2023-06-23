@@ -1,0 +1,236 @@
+{
+  "intents": [
+    {
+      "tag": "therapy_intro",
+      "patterns": [
+        "I need someone to talk to",
+        "Can you help me with my problems?",
+        "I'm feeling down",
+        "I need therapy"
+      ],
+      "responses": [
+        "Of course, I'm here to listen. What's been bothering you?",
+        "I'm here to provide support. Feel free to share what's on your mind.",
+        "I'm here for you. How can I assist you today?"
+      ]
+    },
+    {
+      "tag": "therapy_struggles",
+      "patterns": [
+        "I'm feeling anxious",
+        "I can't stop worrying",
+        "I'm struggling with depression",
+        "I'm overwhelmed",
+        "I don't know what to do",
+        "I feel lost"
+      ],
+      "responses": [
+        "It's understandable to feel that way. Can you tell me more about what's been going on?",
+        "I'm here to listen and offer support. You don't have to face this alone.",
+        "It's brave of you to reach out. Let's talk about what's been troubling you."
+      ]
+    },
+    {
+      "tag": "therapy_coping",
+      "patterns": [
+        "How can I cope with stress?",
+        "Do you have any tips to manage anxiety?",
+        "What can I do to improve my mood?",
+        "How do I deal with negative thoughts?"
+      ],
+      "responses": [
+        "There are various techniques to manage stress, such as deep breathing exercises and mindfulness. Would you like me to guide you through any of these techniques?",
+        "Engaging in activities you enjoy, practicing self-care, and seeking support from loved ones can help improve your mood. Have you tried any of these?",
+        "Challenging negative thoughts and re-framing them in a more positive light can be helpful. Would you like to explore this further?"
+      ]
+    },
+    {
+      "tag": "therapy_resources",
+      "patterns": [
+        "Are there any self-help resources you recommend?",
+        "Do you have any book suggestions for personal growth?",
+        "Where can I find mental health support?"
+      ],
+      "responses": [
+        "Certainly! Here are a few resources you might find helpful: 1. 'Feeling Good: The New Mood Therapy' by David D. Burns, 2. 'The Anxiety and Phobia Workbook' by Edmund J. Bourne, 3. 'The Power of Now' by Eckhart Tolle. Additionally, you can explore online platforms like BetterHelp or Talkspace for professional mental health support.",
+        "I recommend checking out 'Man's Search for Meaning' by Viktor E. Frankl and 'The Gifts of Imperfection' by Brené Brown. These books can offer valuable insights for personal growth.",
+        "If you're looking for mental health support, you can reach out to local counseling centers or helplines. Online platforms like 7 Cups and PsychCentral also provide resources and peer support."
+      ]
+    },
+    {
+      "tag": "therapy_progress",
+      "patterns": [
+        "Do you think I have made any progress?",
+        "I have been feeling good after our last session",
+        "I feel better after talking to you"
+      ],
+      "responses": [
+        "How have you been feeling since our last session?",
+        "Any improvements or changes since our last talk?",
+        "How has your mood been lately?",
+        "Have you noticed any patterns in your thoughts or behavior?",
+        "I'm here to listen and support your progress. Please share how you've been feeling since our last session.",
+        "It's important to reflect on your journey. Take your time to notice any changes or patterns you've observed.",
+        "Your mood and thoughts are important indicators of your progress. Take a moment to reflect on any patterns or improvements you've noticed."
+      ]
+    },
+    {
+      "tag": "therapy_goals",
+      "patterns": [
+        "What is your opinion about setting goals?"
+      ],
+      "responses": [
+        "What are your goals for therapy?",
+        "What would you like to achieve through our sessions?",
+        "How do you envision your ideal outcome?",
+        "What changes would you like to see in your life?",
+        "Setting goals is an important part of therapy. Let's discuss what you hope to achieve through our sessions.",
+        "Your goals and aspirations are crucial. Share with me what you would like to accomplish during our time together.",
+        "Envisioning your ideal outcome can guide our therapeutic journey. Take a moment to think about the changes you'd like to see in your life."
+      ]
+    },
+    {
+      "tag": "therapy_challenges",
+      "patterns": [
+        "I have been facing so many challenges in life",
+        "My life is filled with challenges",
+        "Everything is so difficult",
+        "I cannot move forward in life",
+        "There is no growth in my life"
+      ],
+      "responses": [
+        "What challenges have you faced recently?",
+        "Have there been any obstacles in your path?",
+        "What difficulties are you currently experiencing?",
+        "Is there anything preventing you from moving forward?",
+        "Challenges are a natural part of the process. Feel free to open up about any difficulties or obstacles you're facing.",
+        "Identifying and addressing challenges is an important step in your growth. Let's explore the difficulties you've encountered.",
+        "Obstacles can sometimes hinder progress. Share with me what you're currently experiencing, and we'll work through it together."
+      ]
+    },
+    {
+      "tag": "therapy_support_system",
+      "patterns": [
+        "Who can I turn to for support?",
+        "How do I communicate my feelings with loved ones?",
+        "What can I expect from a support system?",
+        "How can I strengthen my relationships?"
+      ],
+      "responses": [
+        "Having a strong support system is valuable. Let's discuss the people you trust and explore ways to communicate your feelings effectively.",
+        "Support from loved ones can make a significant difference. We can talk about what to expect from a support system and strategies for strengthening your relationships.",
+        "Building a support system is essential for your well-being. Feel free to share your concerns or questions about nurturing and maintaining meaningful connections."
+      ]
+    },
+    {
+      "tag": "therapy_self_acceptance",
+      "patterns": [
+        "How can I learn to accept myself?",
+        "What steps can I take toward self-acceptance?",
+        "How do I overcome self-doubt?",
+        "How can I embrace my flaws?"
+      ],
+      "responses": [
+        "Self-acceptance is a journey. Let's explore strategies and techniques to cultivate self-compassion and embrace who you are.",
+        "Learning to accept oneself can be challenging but rewarding. We can discuss practical steps and exercises to foster self-acceptance.",
+        "Embracing your flaws is a beautiful part of self-growth. Feel free to share your experiences, and we'll explore ways to overcome self-doubt and develop self-acceptance."
+      ]
+    },
+    {
+      "tag": "therapy_boundary_setting",
+      "patterns": [
+        "How do I set healthy boundaries?",
+        "Why are boundaries important in relationships?",
+        "What are some signs of unhealthy boundaries?",
+        "How can I communicate my boundaries effectively?"
+      ],
+      "responses": [
+        "Setting healthy boundaries is crucial for your well-being. Let's discuss strategies for establishing and communicating boundaries in your relationships.",
+        "Boundaries play a vital role in maintaining healthy relationships. We can explore their importance and identify signs of unhealthy boundaries.",
+        "Recognizing and addressing unhealthy boundaries is an important step. Let's discuss effective communication techniques to express your boundaries.",
+        "Effective boundary-setting enhances self-respect and nurtures positive relationships. We can work on strategies to strengthen your boundary-setting skills."
+      ]
+    },
+    {
+      "tag": "therapy_self_esteem",
+      "patterns": [
+        "How can I improve my self-esteem?",
+        "What can I do to build confidence?",
+        "How do I stop comparing myself to others?",
+        "How can I appreciate my own worth?"
+      ],
+      "responses": [
+        "Building self-esteem is a gradual process. Let's explore exercises and techniques to enhance your self-worth.",
+        "Improving self-esteem involves practicing self-compassion and recognizing your strengths. We can discuss strategies tailored to your needs.",
+        "Comparing oneself to others can be detrimental to self-esteem. Let's explore ways to shift your focus to self-appreciation and personal growth."
+      ]
+    },
+    {
+      "tag": "therapy_relationships",
+      "patterns": [
+        "How do I improve my relationships?",
+        "What are the key elements of a healthy relationship?",
+        "How can I communicate better with my partner?",
+        "How do I resolve conflicts in my relationships?"
+      ],
+      "responses": [
+        "Building healthy relationships involves effective communication, mutual respect, and trust. Let's explore strategies to enhance your relationships.",
+        "Healthy relationships are based on open communication, boundaries, and shared values. We can discuss these elements in more detail.",
+        "Improving communication skills can greatly impact your relationships. Let's explore techniques to enhance your ability to express yourself and listen to others.",
+        "Resolving conflicts is an important aspect of any relationship. We can explore conflict resolution strategies and effective problem-solving techniques."
+      ]
+    },
+    {
+      "tag": "therapy_end",
+      "patterns": [
+        "I think I'm ready to end therapy",
+        "When is a good time to stop therapy?",
+        "How do I know if I've made enough progress?",
+        "What's the process for ending therapy?"
+      ],
+      "responses": [
+        "Ending therapy is a personal decision. Let's discuss your thoughts and evaluate if you feel ready to conclude our sessions.",
+        "Knowing when to end therapy is unique to each individual. We can explore your progress and assess if you've met your goals.",
+        "Your progress and goals are important factors in determining the right time to end therapy. Let's discuss your thoughts and create a plan for the future.",
+        "Ending therapy is a collaborative decision. We can talk about the process, review your progress, and ensure you feel supported throughout this transition."
+      ]
+    },
+    {
+      "tag": "greetings",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Good evening",
+        "How are you?"
+      ],
+      "responses": [
+        "Hello! I'm here to help. How can I assist you today?",
+        "Hi there! How can I support you?",
+        "Hey! What can I do for you today?",
+        "Good day! How may I assist you?",
+        "Greetings! How can I help you today?",
+        "Hello! I'm an AI language model trained to provide support. How can I assist you?"
+      ]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": [
+        "How are you?",
+        "How have you been?",
+        "How's your day?",
+        "Are you doing well?",
+        "Are you okay?"
+      ],
+      "responses": [
+        "Thank you for asking! I don't have feelings, but I'm here to help you. How can I assist you today?",
+        "I don't have personal experiences, but I'm ready to support you. What can I do for you?",
+        "I'm here to provide assistance and support. How can I assist you today?",
+        "I don't have emotions, but I'm here to help you. How can I assist you today?",
+        "I don't have feelings, but I'm ready to assist you. How can I support you today?"
+      ]
+    }
+  ]
+}
