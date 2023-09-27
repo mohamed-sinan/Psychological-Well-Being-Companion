@@ -51,13 +51,13 @@ def get_response(intents_list, intents_json):
             break
     return result
 
-print("PSI IS NOW RUNNING")
+# print("PSI IS NOW RUNNING")
 
-while True:
-    message = input("> ")
-    if message.lower() == 'bye':
-        print("Goodbye and take care!")
-        break
-    intent = predict_class(message)
-    response = get_response(intent, intents)
-    print(response)
+# while True:
+#     message = input("> ")
+#     if message.lower() == 'bye':
+#         print("Goodbye and take care!")
+#         break
+#     intent = predict_class(message)
+#     response = get_response(intent, intents)
+#     print(response)

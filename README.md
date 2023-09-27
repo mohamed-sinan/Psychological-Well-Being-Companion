@@ -1,1 +1,1 @@
-# Psychological-Well-Being-Companion
+# well-being-bot

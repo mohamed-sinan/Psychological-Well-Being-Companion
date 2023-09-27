@@ -58,15 +58,15 @@ def match_response(input_text):
             return chosen_response.format(*matches.groups())
     return "I'm sorry, I don't understand."
 
-print("Welcome to the Psychological Well-Being Chatbot")
+#print("Welcome to the Psychological Well-Being Chatbot")
 
-user_name = input("Enter your name: ")
+# user_name = input("Enter your name: ")
 
-while True:
-    print(user_name, end='')
-    user_input = input(": ")
-    if user_input.lower() == "bye":
-        print("PSI: Goodbye")
-        break
-    else:
-        print("PSI: " + match_response(user_input))
+# while True:
+#     print(user_name, end='')
+#     user_input = input(": ")
+#     if user_input.lower() == "bye":
+#         print("PSI: Goodbye")
+#         break
+#     else:
+#         print("PSI: " + match_response(user_input))
